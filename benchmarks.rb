@@ -1,3 +1,4 @@
+¹ş
 require 'fileutils'
 require 'benchmark'
 require 'rubygems'
